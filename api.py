@@ -2,7 +2,7 @@ from telegram import Update
 from telegram.ext import ApplicationBuilder, CommandHandler, ContextTypes
 import requests
 
-BOT_TOKEN = "YOUR_TELEGRAM_BOT_TOKEN"  # <-- Yahan apna bot token daalo
+BOT_TOKEN = "7654306077:AAFHFkpQX64nGXmApVXygoaE8TUljJ53yHA"  # <-- Yahan apna bot token daalo
 
 API_ENDPOINT = "https://mundo.bienvenido.top/api/activate"
 
